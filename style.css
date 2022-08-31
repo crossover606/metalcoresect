@@ -1,0 +1,177 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  body {
+    font-family: 'font', sans-serif;
+  }
+
+  .main-content {
+    display: flex;
+  
+    flex-direction: column;
+  
+    align-items: center;
+  
+    justify-content: center;
+  
+    min-height: 100vh;
+  
+    color: #fff;
+
+    background-color: #a95967;
+  }
+
+  .logo {
+    width: 400px;
+    display: block;
+    margin: 30px 0 30px 0;
+  }
+
+  .subtitle {
+    font-size: small;
+  }
+
+  .title {
+    margin: 0;
+  }
+
+  .onest {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .twost {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sixsteen {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sevenst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .ninest {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .fiftst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sixst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .fiftst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }  
+  
+  .twonest {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }  
+  
+  .twtwost {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }  
+  
+  .twthst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }  
+  
+  .twsixst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .twest {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .thirdst {
+    width: 400px;
+    border-radius: 20px;
+    color: #f8b1bd;
+    background-color: #582637;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .releases {
+    color: #fff;
+  }
