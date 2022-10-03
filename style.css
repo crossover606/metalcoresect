@@ -30,7 +30,7 @@ html {
   
     color: #fff;
 
-    background-image: url(..//releases/oriental-tiles.png);
+    background-image: url(/oriental-tiles.png);
   }
 
   ul {
@@ -56,7 +56,7 @@ html {
   }
 
   .friday {
-    background-image: url(../releases/icon-friday3.png);
+    background-image: url(/icon-friday3.png);
     background-size: 60px;
     background-repeat: no-repeat;
     background-position: bottom 36% right;
@@ -104,7 +104,7 @@ html {
 
   .releases {
     color: #fff;
-    background-image: url(../releases/icon-fire3.png);
+    background-image: url(/icon-fire3.png);
     background-size: 20px 20px;
     background-repeat: no-repeat;
     background-position: right center;
